@@ -1,0 +1,12 @@
+version: '2.2'
+services:
+  web:
+    build: .
+    ports:
+      - 3000:80
+    volumes:
+      - feedback:/app/feedback
+      - "./temp:/app/temp"
+      - /app/node_modules
+volumes:
+  feedback:
