@@ -1,0 +1,6 @@
+docker build . --tag sample-vol-01
+docker run  --rm --name sample-vol-01 -p 3000:3000 sample-vol-01
+
+# run with mounts host directory.
+docker run --rm -d -it -p 3000:3000  --name sample-vol-01 -v "$(pwd)"/logs:/app/logs sample-vol-01
+docker run --rm -d -it -p 3000:3000  --name sample-vol-01 -v sample-vol-01:/app/logs sample-vol-01
