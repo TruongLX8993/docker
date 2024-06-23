@@ -8,4 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = LabConsole
-build_property.ProjectDir = E:\truonglx\docker\02.Codes\04.truonglx-lab-console-app\LabConsole\LabConsole\
+build_property.ProjectDir = /Users/truonglx/03.Course/05.Docker/02.Codes/04.truonglx-lab-console-app/LabConsole/LabConsole/
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 

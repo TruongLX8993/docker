@@ -1,27 +1,26 @@
 {
   "format": 1,
   "restore": {
-    "E:\\truonglx\\docker\\02.Codes\\04.truonglx-lab-console-app\\LabConsole\\LabConsole\\LabConsole.csproj": {}
+    "/Users/truonglx/03.Course/05.Docker/02.Codes/04.truonglx-lab-console-app/LabConsole/LabConsole/LabConsole.csproj": {}
   },
   "projects": {
-    "E:\\truonglx\\docker\\02.Codes\\04.truonglx-lab-console-app\\LabConsole\\LabConsole\\LabConsole.csproj": {
+    "/Users/truonglx/03.Course/05.Docker/02.Codes/04.truonglx-lab-console-app/LabConsole/LabConsole/LabConsole.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\truonglx\\docker\\02.Codes\\04.truonglx-lab-console-app\\LabConsole\\LabConsole\\LabConsole.csproj",
+        "projectUniqueName": "/Users/truonglx/03.Course/05.Docker/02.Codes/04.truonglx-lab-console-app/LabConsole/LabConsole/LabConsole.csproj",
         "projectName": "LabConsole",
-        "projectPath": "E:\\truonglx\\docker\\02.Codes\\04.truonglx-lab-console-app\\LabConsole\\LabConsole\\LabConsole.csproj",
-        "packagesPath": "C:\\Users\\truonglx\\.nuget\\packages\\",
-        "outputPath": "E:\\truonglx\\docker\\02.Codes\\04.truonglx-lab-console-app\\LabConsole\\LabConsole\\obj\\",
+        "projectPath": "/Users/truonglx/03.Course/05.Docker/02.Codes/04.truonglx-lab-console-app/LabConsole/LabConsole/LabConsole.csproj",
+        "packagesPath": "/Users/truonglx/.nuget/packages/",
+        "outputPath": "/Users/truonglx/03.Course/05.Docker/02.Codes/04.truonglx-lab-console-app/LabConsole/LabConsole/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\truonglx\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/Users/truonglx/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "/usr/local/share/dotnet/library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -34,6 +33,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -55,7 +59,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.204/RuntimeIdentifierGraph.json"
         }
       }
     }

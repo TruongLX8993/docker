@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "kIwev1aLW2UlZBf9bDkiq8r3fe01nZydyXB24Dj94/H7HyWwYmByf9vbo86uV0J+L21j7q4ZfY1jnws1JrVSmA==",
+  "dgSpecHash": "xOlFE4SbWMZUWbpVDnjT8pBxrMZxElnXNeygthTr+/Kisr3Nr13uD223T7Dzcc6+KolCShpmdD4chWXaF0S8Sg==",
   "success": true,
-  "projectFilePath": "E:\\truonglx\\docker\\02.Codes\\04.truonglx-lab-console-app\\LabConsole\\LabConsole\\LabConsole.csproj",
+  "projectFilePath": "/Users/truonglx/03.Course/05.Docker/02.Codes/04.truonglx-lab-console-app/LabConsole/LabConsole/LabConsole.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
